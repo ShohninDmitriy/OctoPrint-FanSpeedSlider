@@ -28,5 +28,5 @@ Slide the slider, click the button. There really isn't much else to do :)
 
 Install manually using this URL:
 
-    https://github.com/ntoff/OctoPrint-fanspeedslider/archive/master.zip
+    https://github.com/czM1K3/OctoPrint-fanspeedslider/archive/master.zip
 
