@@ -2,11 +2,11 @@
 
 Add a slider to control the speed of a parts cooling fan.
 
-![](./image/slider.JPG)
+![Slider](./image/slider.jpg)
 
 ## Usage
 
-Slide the slider, click the button. There really isn't much else to do :)
+Slide the slider or use plus and minus button, click the set button. There really isn't much else to do :)
 
 ## Settings
 
